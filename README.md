@@ -26,7 +26,7 @@
 <a href="https://codepen.io/ty100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ty100" height="30" width="40" /></a>
 <a href="https://twitter.com/haroub_taibu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haroub_taibu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/oopb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oopb" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/btest200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="btest200" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13514498/btest200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="btest200" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/haroubtaibu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="haroubtaibu" height="30" width="40" /></a>
 </p>
 

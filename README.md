@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taibu Haroub</h1>
 <h3 align="center">A Full Stack Web Developer with experience in IT and software development industries.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taibuharoub&label=Profile%20views&color=0e75b6&style=flat" alt="taibuharoub" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=taibuharoub&label=Profile%20views&color=0e75b6&style=flat" alt="taibuharoub" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taibuharoub" alt="taibuharoub" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taibuharoub" alt="taibuharoub" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/haroub_taibu" target="blank"><img src="https://img.shields.io/twitter/follow/haroub_taibu?logo=twitter&style=for-the-badge" alt="haroub_taibu" /></a> </p>
 
@@ -36,4 +36,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taibuharoub&show_icons=true&locale=en&layout=compact" alt="taibuharoub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taibuharoub&" alt="taibuharoub" /></p>
-

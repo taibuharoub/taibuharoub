@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taibu Haroub</h1>
-<h3 align="center">A Full Stack Web Developer with experience in IT and software development industries.</h3>
+<h3 align="center">Software Engineer with experience in IT and software development industries.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=taibuharoub&label=Profile%20views&color=0e75b6&style=flat" alt="taibuharoub" /> </p> -->
 
@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/haroub_taibu" target="blank"><img src="https://img.shields.io/twitter/follow/haroub_taibu?logo=twitter&style=for-the-badge" alt="haroub_taibu" /></a> </p>
 
-- 🔭 I’m currently working on [online shop](https://github.com/taibuharoub/shop)
-
-- 🌱 I’m currently learning **Ruby, Ruby on Rails**
+- 🔭 I’m currently working on Link Bus System
 
 - 👯 I’m looking to collaborate on **various projects**
 

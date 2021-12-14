@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/haroub_taibu" target="blank"><img src="https://img.shields.io/twitter/follow/haroub_taibu?logo=twitter&style=for-the-badge" alt="haroub_taibu" /></a> </p>
 
-- 🔭 I’m currently working on Link Bus System
+- 🔭 I’m currently working on Link Bus Uganda System
 
 - 👯 I’m looking to collaborate on **various projects**
 
